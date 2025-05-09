@@ -25,7 +25,13 @@ body {
 h1 {
     margin-bottom: 20px;
     font-size: 2rem;
+    color: #d3d3d3;
+    font-weight: 600;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
+
 
 #load-btn {
     padding: 12px 24px;
